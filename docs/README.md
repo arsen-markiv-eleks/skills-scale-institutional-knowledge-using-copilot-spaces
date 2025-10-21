@@ -34,13 +34,28 @@ For a high-level overview, see the [Project Management Overview](./octoacme-proj
 
 Clear roles ensure accountability and effective collaboration:
 
+### Core Roles
 - **Project Manager (PM)**: Coordinates delivery, schedules, risk management, and cross-team communication
 - **Product Manager (PdM)**: Defines outcomes, prioritizes the backlog, and measures success
 - **Developers**: Implement features, write tests, participate in design reviews, and help estimate work
-- **QA/Testing**: Validate quality, acceptance criteria, and run manual testing when needed
+
+### Specialized Roles
+- **Agile Coach**: Facilitates agile ceremonies, coaches teams on best practices, and drives continuous improvement
+- **Business Analyst**: Bridges business and technical teams by eliciting, analyzing, and documenting requirements
+- **QA Lead**: Owns quality strategy, test planning, and serves as the quality gatekeeper before releases
+- **Release Manager**: Coordinates production releases, manages deployment schedules, and handles rollback procedures
+- **Change Manager**: Plans and executes organizational change initiatives to ensure smooth adoption
+- **UX Designer**: Creates user-centered experiences through research, design, and validation
+
+### Supporting Roles
 - **Stakeholders**: Provide inputs, approvals, and feedback throughout the project lifecycle
 
 → [Detailed roles and responsibilities](./octoacme-roles-and-personas.md)
+
+**Templates for Role Clarity:**
+- [Role Interaction Matrix](./templates/role-interaction-matrix.md) - Understand how roles collaborate
+- [RACI Matrix Template](./templates/raci-matrix.md) - Define clear accountability for deliverables
+- [Role Onboarding Checklist](./templates/role-onboarding-checklist.md) - Quick-start guide for new team members
 
 ## Core Workflows & Project Board
 
